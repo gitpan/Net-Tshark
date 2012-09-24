@@ -2,7 +2,7 @@ package Net::Tshark::Packet;
 use strict;
 use warnings;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 use XML::Simple;
 use base 'Net::Tshark::Field';

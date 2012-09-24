@@ -2,7 +2,7 @@ package Net::Tshark::Field;
 use strict;
 use warnings;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 use List::MoreUtils qw(any all uniq after);
 use List::Util qw(reduce);

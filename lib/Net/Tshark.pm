@@ -3,7 +3,7 @@ package Net::Tshark;
 use strict;
 use warnings;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 use IPC::Run;
 use File::Which qw(which);
@@ -214,6 +214,8 @@ parse the output, and format the results as perl hash-like structures.
 =item $tshark = Net::Tshark->new()
 
 Returns a newly created C<Net::Tshark> object.
+
+=back
 
 =head2 METHODS
 

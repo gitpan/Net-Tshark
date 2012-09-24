@@ -1,3 +1,6 @@
+use warnings;
+use strict;
+use lib '../lib';
 use Net::Tshark;
 
 # Start the capture process, looking for packets containing HTTP requests and responses
