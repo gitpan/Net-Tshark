@@ -62,7 +62,7 @@ C<Net::Tshark> - Interface for the tshark network capture utility
 
 =head1 AUTHOR
 
-Zachary Blair, E<lt>zack_blair@hotmail.comE<gt>
+Zachary Blair, E<lt>zblair@cpan.orgE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 

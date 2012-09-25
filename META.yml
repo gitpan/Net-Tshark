@@ -1,6 +1,6 @@
 ---
 name: Net-Tshark
-version: 0.03
+version: 0.04
 author: ["Zachary Blair <zblair@cpan.org>"]
 abstract: 'Interface for the tshark network capture utility'
 license: perl
@@ -26,7 +26,7 @@ no_index:
 provides:
   Net::Tshark:
     file: lib/Net/Tshark.pm
-    version: 0.03
+    version: 0.04
 keywords:
   - tshark
   - Wireshark

@@ -3,7 +3,7 @@ package Net::Tshark;
 use strict;
 use warnings;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 use IPC::Run;
 use File::Which qw(which);
